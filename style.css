@@ -1,0 +1,20 @@
+body{
+    color:rgb(255, 255, 255);
+    background: rgb(219, 149, 149);
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 2px white;
+    padding: 10px;
+    font-size: 32px;
+    color: rgb(255, 255, 255)
+}
+
+section{
+   background: rgb(219, 149, 149);
+   padding-top: 80px;
+   padding-bottom: 80px;
+   display: flex;
+   justify-content: center;
+}
