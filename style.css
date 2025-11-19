@@ -3,14 +3,14 @@ body{
     background: rgb(0, 0, 0);
     margin: 0px;
     font-family: "Playfair Display", sans-serif;
-    margin-bottom: 100px
+    margin-bottom: 100px;
 }
 
 header{
     border-bottom: solid 2px white;
     padding: 10px;
     font-size: 32px;
-    color: rgb(255, 255, 255)
+    color: rgb(255, 255, 255);
 }
 
 .chamada
@@ -53,9 +53,9 @@ categoria-video{
 }
 .categoria-videos img:hover{
     opacity: 1.0;
-    border: 1px solid red
+    border: 1px solid red;
 }
 
 .categoria h2{
-    color: white
+    color: white;
 }
