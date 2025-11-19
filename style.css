@@ -8,20 +8,19 @@ body{
 
 header{
     border-bottom: solid 2px white;
-    padding: 10px;
+    padding: 20px;
     font-size: 32px;
     color: rgb(255, 255, 255);
 }
 
-.chamada
-   background: rgb(0, 0, 0);
+.chamada{  
+   background: white;
    padding-top: 80px;
    padding-bottom: 80px;
    display: flex;
    justify-content: center;
 }
 .chamada-texto{
-
     margin-right: 5%;
 }
 
