@@ -29,13 +29,13 @@ h1{
 
 }
 p{
-    font-size: 40px
+    font-size: 40px;
 }
 
 img{
     height: 200px;
 }
-categoria-video{
+.categoria-video{
     display:flex;
     overflow-x:auto;
     gap: 10px;
